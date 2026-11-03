@@ -1,0 +1,6 @@
+# Inferred minimal dependencies, not the original experiment lockfile.
+# Use Python >=3.9 and a PyTorch version supporting weights_only=True.
+torch>=2.1
+numpy
+scikit-learn
+# Additional dependencies may be required by the restored original dataset loader.
